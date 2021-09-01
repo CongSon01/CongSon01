@@ -13,10 +13,9 @@ Since I started studying Computer Science, I built multiple projects using diffe
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=CongSon&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github.com/CongSon01/CongSon01/blob/6c297d88aa55f171f604ee7824afc784917f14b0/coding.png)" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CongSon01&show_icons=true&hide=contribs,issues&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="./coding.gif"/></td>
 </tr>
 <table>
   
