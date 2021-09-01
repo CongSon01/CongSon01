@@ -1,5 +1,4 @@
 ### Hi there, I'm [Cong Son][website]😎
-[![Website](https://github.com/CongSon01/CongSon01/blob/6c297d88aa55f171f604ee7824afc784917f14b0/iconLogo.png)](https://congson01.github.io/duongcongsonCV/)
 
 ## About Me
 As soon as I discovered that technology has impacted our society tremendously, I knew this had to be my career, so I decided to pursue a major in Computer Science. When taking Software Development Using Java at my Community College, I was inspired and fell in love with every single line of code. In September 2020, I took a data structure and algorithm class, and I added that hands-on class to my full-time schedule while I was learning web development.
