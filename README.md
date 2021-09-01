@@ -13,7 +13,8 @@ Since I started studying Computer Science, I built multiple projects using diffe
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CongSon01&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CongSon01&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongSon01&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="./coding.gif"/></td>
 </tr>
@@ -24,10 +25,7 @@ Since I started studying Computer Science, I built multiple projects using diffe
 📫 [E-mail](mailto:duongcongson01@gmail.com) **|** 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
-
 <br />
-
-[![Duong Cong Son's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CongSon01&show_icons=true&title_color=fff&icon_color=F2BDFF&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=CongSon01)
 
 [website]: https://congson01.github.io/duongcongsonCV/
 [linkedin]: https://www.linkedin.com/in/dcson01/
