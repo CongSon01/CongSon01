@@ -10,6 +10,16 @@ Since I started studying Computer Science, I built multiple projects using diffe
 - 👯 I’m looking to collaborate with others to build projects
 - 🥅 2021 Goals: Actively looking for a software engineer internship opportunity for Summer 2021
 
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=CongSon&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongSon&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
+  
 ### Connect with me:
 
 📫 [E-mail](mailto:duongcongson01@gmail.com) **|** 
