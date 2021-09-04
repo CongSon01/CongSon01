@@ -22,7 +22,7 @@ Since I started studying Computer Science, I built multiple projects using diffe
 ### Connect with me:
 
 📫 [E-mail](mailto:duongcongson01@gmail.com) **|** 
-👯 [Blog Machine Learning] [blog] **|**
+👯 [Blog Machine Learning][blog] **|**
 🏡 [Web CV][website] **|** 
 👔 [linkedin][linkedin]
 <br />
