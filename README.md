@@ -1,4 +1,4 @@
-### Hi there, I'm [Cong Son][website]😎
+### Hi there, I'm [Cong Son][website]🌼
 ### Connect with me:
 
 📫 [E-mail](mailto:duongcongson01@gmail.com) **|** 
